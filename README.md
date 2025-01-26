@@ -1,3 +1,4 @@
 # Project-demo
-this is my firs git repository
-author- vansh arora
+This is my firs git repository.
+<br>
+Author- vansh arora
